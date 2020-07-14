@@ -1,8 +1,5 @@
 ##This is my responsive portfolio website built with love and javascript.
 
-![image](./preview.png)
-
->Live Preview at
 
 
 
