@@ -3,7 +3,7 @@
 ![image](./preview.png)
 
 >Live Preview at
-https://hemant.codes/
+
 
 
 `Make sure to follow me on github and give out some stars`
